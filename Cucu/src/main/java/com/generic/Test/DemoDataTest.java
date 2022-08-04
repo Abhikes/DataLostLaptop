@@ -7,6 +7,7 @@ public class DemoDataTest {
 	public void getData()
 	{
 		System.out.println("M1 Running");
+		//star
 	}
     
 }
